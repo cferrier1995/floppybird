@@ -1,6 +1,6 @@
 Floppy Bird Machine Learning
 =========
-A flappy bird AI that teaches itself how to avoid dying by using reinforcement learning. Origininally done for a Computer Science Class, updated after with improvements and a learning graph. 
+A Flappy Bird AI that teaches itself how to avoid dying by using reinforcement learning. Originally done for an AI Class, updated after with improvements and a learning graph. 
 
 Live App
 ------------
